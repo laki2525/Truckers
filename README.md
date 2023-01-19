@@ -2,6 +2,7 @@
 
 ## Uputstvo za pokretanje
 1. Potrebno je instalirati **APOC** plugin za neo4j bazu.
+2. neo4j.dump se nalazi na repozitorijumu.
 
 ## Kratko uputstvo za koriscenje
 ### Dodavanje / Brisanje
@@ -11,10 +12,11 @@ U boxu "Ubacivanje posiljke u kamion" izlistavaju se slobodne posiljke, na osnov
 ### Upravljanje kamionima
 Klikom na dugme "Upravljanje" na pocetnoj formi otvara se forma za pracenje i azuriranje lokacije kamiona koji nose pakete.
 
- ![new dashboard](img/Manage_LoadData.png?raw=true)
- Pri prvom pokretanju aplikacije potrebno je kreirati novi dashboard sa podacima koji su izlistani u formi.
-
  ![load](img/Manage_NewDashboard.png?raw=true)
+ Pri prvom pokretanju aplikacije potrebno je kreirati novi dashboard sa podacima koji su izlistani u formi.
+ 
+
+ ![new dashboard](img/Manage_LoadData.png?raw=true)
  Nakon povezivanja potrebno je kopirati dashboard konfiguraciju klikom na dugme koje se nalazi na formi. Konfiguraciju nalepiti u Load opciji koja se nalazi sa leve strane.
 
  Nakon toga dashboard je uspesno konfigurisan i vidimo prikaz mape.
